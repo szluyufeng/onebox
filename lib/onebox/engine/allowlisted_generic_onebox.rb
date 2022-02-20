@@ -24,6 +24,8 @@ module Onebox
       def self.default_allowed_domains
         %w(
           bilibili.com
+          36kr.com
+          ifanr.com
           mp.weixin.qq.com
           qq.com
           weixin.qq.com
