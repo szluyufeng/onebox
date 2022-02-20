@@ -23,6 +23,17 @@ module Onebox
 
       def self.default_allowed_domains
         %w(
+          bilibili.com
+          mp.weixin.qq.com
+          qq.com
+          weixin.qq.com
+          163.com
+          cnbeta.com
+          mydrivers.com
+          xigua.com
+          appletuan.com
+          weibo.com
+          tiktok.com
           23hq.com
           500px.com
           8tracks.com
